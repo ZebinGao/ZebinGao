@@ -7,19 +7,16 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🧑‍💻 **Software Engineer** passionate about building robust applications and solving real-world problems.
 - 🐍 Skilled in **Python**, with a strong interest in **Machine Learning** and intelligent automation.
 - 💻 Experienced with **WPF** for modern desktop applications and **YWinAppDriver** for UI automation.
-
+- 🌍 [zebin-yue.top](https://zebin-yue.top/)
+[![Hexo Deploy](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment)
 ---
 
 ## 🚀 Featured Projects
 
 - [**WinAppDriver**](https://github.com/microsoft/WinAppDriver): officail windows automation driver.
-- [**WinAppDriver-nova**](https://github.com/ZebinGao/appium-novawindows-driver): Open windows automation as replacement of WinAppDriver.
-- [**WinAppDriver-open**](https://github.com/ZebinGao/YWinAppDriver): another Open windows automation as replacement of WinAppDriver.
-- [**ZebinGao.github.io**](https://github.com/ZebinGao/ZebinGao.github.io): My personal website and blog — check it out at [zebin-yue.top](https://zebin-yue.top/)!
 - [**appium-inspector**](https://github.com/ZebinGao/appium-inspector): Enhanced tools for mobile application inspection.
 - [**dotnet-client**](https://github.com/ZebinGao/dotnet-client): .NET client solutions for modern windows apps.
 
@@ -41,7 +38,7 @@
 
 ## 🌐 Connect with Me
 
-- 🌍 [zebin-yue.top](https://zebin-yue.top/)
+- QQ: 1368219312
 
 ---
 
@@ -49,15 +46,4 @@
 
 <!--
 **ZebinGao/ZebinGao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
