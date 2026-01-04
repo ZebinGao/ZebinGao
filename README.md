@@ -1,6 +1,4 @@
-## Hi there 👋
-# Hi there, I’m Zebin Gao 👋
-
+[![Hexo Deploy](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml) [![pages-build-deployment](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment)
 > **Wo der Wille ist, ist ein Weg.**  
 > *Where there’s a will, there’s a way.*
 
@@ -10,8 +8,6 @@
 - 🐍 Skilled in **Python**, with a strong interest in **Machine Learning** and intelligent automation.
 - 💻 Experienced with **WPF** for modern desktop applications and **YWinAppDriver** for UI automation.
 - 🌍 [zebin-yue.top](https://zebin-yue.top/)
-[![Hexo Deploy](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/deploy.yml)
-[![pages-build-deployment](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/ZebinGao/ZebinGao.github.io/actions/workflows/pages/pages-build-deployment)
 ---
 
 ## 🚀 Featured Projects
