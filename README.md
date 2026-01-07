@@ -13,7 +13,7 @@
 
 ## 🌱 Currently Exploring
 
-- Philosophy involves Buddhism, and existentialism in particular. I'm pondering questions like 'existence precedes essence' and what constitutes the absurd.
+- Philosophy involves **Buddhism**, and existentialism in particular. I'm pondering questions like **existence precedes essence** and what constitutes the **absurd**.
 - Optimizing UI test automation with WinAppDriver.
 
 ---
