@@ -20,9 +20,9 @@
 
 ## 🌱 Currently Exploring
 
-- Philosophy involves **Buddhism**, and existentialism in particular. I'm pondering questions like **existence precedes essence** and what constitutes the **absurd**.
 - Optimizing UI test automation with WinAppDriver.
-
+- Philosophy involves **Buddhism**, and existentialism in particular. I'm pondering questions like **existence precedes essence** and what constitutes the **absurd**.
+![](./image/gemini.png)
 ---
 ## &#x1f4ca; 技能评估
 
