@@ -5,8 +5,8 @@
 ---
 
 ## 👨‍💻 About Me
-- 🐍 Skilled in **Python**, with a strong interest in **Machine Learning** and intelligent automation.
-- 💻 Experienced with **WPF** for modern desktop applications and **YWinAppDriver** for UI automation.
+- 📝 **Wine and flowers are as of old, but the youthful heart has faded.**
+- 💻 Experienced with **WPF** for modern desktop applications and **WinAppDriver** for UI automation.
 - 🌍 [zebin-yue.top](https://zebin-yue.top/)
 
 ---
