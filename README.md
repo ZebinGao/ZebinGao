@@ -8,20 +8,13 @@
 - 🐍 Skilled in **Python**, with a strong interest in **Machine Learning** and intelligent automation.
 - 💻 Experienced with **WPF** for modern desktop applications and **YWinAppDriver** for UI automation.
 - 🌍 [zebin-yue.top](https://zebin-yue.top/)
----
-
-## 🚀 Featured Projects
-
-- [**WinAppDriver**](https://github.com/microsoft/WinAppDriver): officail windows automation driver.
-- [**appium-inspector**](https://github.com/ZebinGao/appium-inspector): Enhanced tools for mobile application inspection.
-- [**dotnet-client**](https://github.com/ZebinGao/dotnet-client): .NET client solutions for modern windows apps.
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced machine learning models and their real-world applications
-- Optimizing UI test automation with YWinAppDriver
+- Philosophy involves Buddhism, and existentialism in particular. I'm pondering questions like 'existence precedes essence' and what constitutes the absurd.
+- Optimizing UI test automation with WinAppDriver.
 
 ---
 
@@ -29,7 +22,7 @@
 
 - 🏸 **Badminton** enthusiast
 - 🎨 Enjoy painting in my spare time
-
+- ⛰️ I have a passion for scaling mountains. 
 ---
 
 ## 🌐 Connect with Me
