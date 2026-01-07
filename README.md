@@ -7,8 +7,6 @@
 ## 👨‍💻 About Me
 - 📝 **Wine and flowers are as of old, but the youthful heart has faded.**
 - 💻 Experienced with **WPF** for modern desktop applications and **WinAppDriver** for UI automation.
-- 🌍 [zebin-yue.top](https://zebin-yue.top/)
-
 ---
 
 ## 🌱 Currently Exploring
@@ -17,7 +15,18 @@
 - Optimizing UI test automation with WinAppDriver.
 
 ---
+##
+## &#x1f4ca; 技能评估
 
+| 技能类别 | 具体技能 | 熟练程度 |
+|---------|---------|---------|
+| AGI | Gemini | &#x2b50;&#x2b50;&#x2b50;&#x2b50;&#x2b50; |
+| 前端框架 | Flask | &#x2b50;&#x2b50;&#x2b50;&#x2b50;&#x2b50; |
+| IDE | vs code | &#x2b50;&#x2b50;&#x2b50;&#x2b50;&#x2b50; |
+| 编程语言 | Python | &#x2b50;&#x2b50;&#x2b50;&#x2b50; |
+| 编程语言 | C# | &#x2b50;&#x2b50;&#x2b50;&#x2b50;&#x2b50; |
+
+---
 ## 🎨 Hobbies & Fun Facts
 
 - 🏸 **Badminton** enthusiast
@@ -25,10 +34,11 @@
 - ⛰️ I have a passion for scaling mountains. 
 ---
 
-## 🌐 Connect with Me
+## &#x1f4de; Connect with Me
 
-- QQ: 1368219312
-
+- **QQ**: 1368219312
+- **邮箱**: 1368219312@qq.com
+- **电话**: 18321120471
 ---
 
 *Let’s connect and build something amazing together!*
