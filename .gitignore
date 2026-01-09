@@ -1,0 +1,7 @@
+# 忽略工作空间状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 忽略缓存和插件日志
+.obsidian/cache/
+.obsidian/logs/
