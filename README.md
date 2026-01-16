@@ -58,13 +58,6 @@
 | 编程语言 | C# | &#x2b50;&#x2b50;&#x2b50;&#x2b50;&#x2b50; |
 
 
-## &#x1f4de; Connect with Me
-
-- **QQ**: 1368219312
-- **邮箱**: 1368219312@qq.com
-- **电话**: 18321120471
----
-
 *Let’s connect and build something amazing together!*
 ```mermaid
 gantt
