@@ -1,0 +1,27 @@
+name: Metrics
+
+# 触发条件
+on:
+  schedule:
+    - cron: "0 0 * * *" # 每天凌晨自动运行一次（UTC时间）
+  workflow_dispatch:    # 允许在 Actions 页面手动点击运行
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # 读取你在仓库 Secrets 中配置的 Token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 核心参数：指定输出的路径和文件名！
+          filename: image/metrics_isocalendar.svg
+          
+          # 基础配置（如果只想显示 3D 绿点图，可以将 base 设为 ""，或者保留 header 个人信息）
+          base: header, activity, community, repositories, metadata
+          
+          # 开启 3D 立体贡献图插件
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
