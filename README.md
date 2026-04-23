@@ -4,6 +4,14 @@
 > **Wo der Wille ist, ist ein Weg.**  
 > *Where there’s a will, there’s a way.*
 
+---
+
+<p align="center">
+  <img src="./image/metrics_isocalendar.svg" alt="GitHub 3D Contributions">
+</p>
+
+---
+
 ## &#x1f517; 在线链接
 
 [![个人网站](https://img.shields.io/badge/个人网站-zebin-blue?logo=googleanalytics&logoColor=whitestyle=plastic)](https://zebin-yue.top)
