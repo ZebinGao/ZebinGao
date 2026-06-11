@@ -14,7 +14,6 @@
 
 ## &#x1f517; 在线链接
 
-[![个人网站](https://img.shields.io/badge/个人网站-zebin-blue?logo=googleanalytics&logoColor=whitestyle=plastic)](https://zebin-yue.top)
 [![GitHub](https://img.shields.io/badge/GitHub-ZebinGao-333333?logo=github&logoColor=whitestyle=plastic)](https://github.com/ZebinGao)
 [![掘金](https://img.shields.io/badge/AI-Gemini-8E75B2?logo=googlegemini&logoColor=white&style=plastic)](https://gemini.google.com)
 ---
